@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data and logs
+*.tsv
+*.csv
+*.log
+*.txt
+inputs/
+outputs/
+manifests/
+
+# Exceptions (keep these)
+!md5_checksums.txt
+!requirements.txt
